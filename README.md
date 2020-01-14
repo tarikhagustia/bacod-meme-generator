@@ -1,4 +1,4 @@
-# unbacod
+# Bacod Meme Generator
 
 ## Project setup
 ```
@@ -27,3 +27,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### License
+Thanks you for inspiration [https://github.com/ric-ez/bacod-generator](https://github.com/ric-ez/bacod-generator).
